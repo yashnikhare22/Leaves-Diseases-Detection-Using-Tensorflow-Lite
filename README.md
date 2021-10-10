@@ -1,4 +1,5 @@
 # Leaves-Diseases-Detection-Using-Tensorflow-Lite    APK IS UPLOADED ON GOOGLE DRIVE 
+https://drive.google.com/drive/folders/1Qu8e_MtmMgh4RrQkK0xxOuWYFi9FnL3F?usp=sharing
 
 
 To find out whether the leaf is diseased or healthy, certain steps must be followed. i.e., Preprocessing, Feature extraction, Training of classifier and Classification. Preprocessing of image, is bringing all the images size to a reduced uniform size. Then comes extracting features of a preprocessed image which is done with the help of Convnets. 
